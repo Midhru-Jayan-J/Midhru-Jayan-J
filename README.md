@@ -23,10 +23,16 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Midhru-Jayan-J&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Midhru-Jayan-J&theme=vision-friendly-dark&hide_border=false" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhru-Jayan-J&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+  <!-- GitHub Streak Stats (Alternative Server) -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Midhru-Jayan-J&theme=vision-friendly-dark&hide_border=false" /><br>
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhru-Jayan-J&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=3600" />
 </div>
+
 
 
 <h2 align="center">🌍 Reach Out To Me</h2>
